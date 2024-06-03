@@ -17,4 +17,4 @@
 puts "Please enter a number:"
 number = gets.chomp.to_i # Needs to be converted in to an integer
 doubled_number = number * 2 
-puts "The doubled number is " + doubled_number.to_s # needs to be converted into an array for the out put 
+puts "The doubled number is " + doubled_number.to_s # needs to be converted into a string 
