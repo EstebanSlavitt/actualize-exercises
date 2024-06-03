@@ -15,7 +15,7 @@ p 1 / 983
 # Add a comment that describes the error message in your own words.
 
 
-p 2 * 2
+p 2 . 2 # i added a period instead of a *
 p 25 + 5
 p 24 - 12 
- 1 / 983 # i forgot to add p 
+p 1 / 983 
