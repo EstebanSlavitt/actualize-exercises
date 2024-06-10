@@ -29,7 +29,6 @@ class Shoe
   end
 end
 
-
 my_shoe = Shoe.new("Air Jordan", "Red", 200)
 
 pp my_shoe
