@@ -14,3 +14,5 @@ p w_strings
 
 
 # i almost had it i just need to look at it. I think next time ill get it. 
+
+
