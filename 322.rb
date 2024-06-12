@@ -8,3 +8,4 @@ while number <= 100000
     p number 
     number = number * 2
 end
+
