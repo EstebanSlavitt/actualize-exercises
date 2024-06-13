@@ -16,4 +16,4 @@ numbers.each do |number| # repeat through all the numbers in the array
 end
 
 
-# the code dosent crash i just cant get it to work 
+# the code dosent crash i just cant get it to work  
